@@ -17,3 +17,5 @@ test.sh
 bayesian_laws_icl/scratch/
 *.ipynb
 wandb/
+base/
+.DS_Store
