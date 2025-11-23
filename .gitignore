@@ -1,15 +1,10 @@
 __pycache__/
-bayesian_laws_icl/logs/
 bayesian_laws_icl/wandb/
-bayesian_laws_icl/figs/
 bayesian_laws_icl/.ipynb_checkpoints/
-bayesian_laws_icl/datasets/
 bayesian_laws_icl/paper/
 .ipynb_checkpoints/
-logs*
 *.out
 count.py
-*.png
 train.json
 train.txt
 tokenizer.json

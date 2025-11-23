@@ -1,0 +1,838 @@
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Passage: In the past, we had a lot of unrealistic high-profile in moral propaganda, so that a lot of the population said one thing and made one behind the other, and split personality. Through thinking about this phenomenon, some scholars have proposed that we should only ask ordinary people to abide by the "bottom line ethics".
+Question: Based on your understanding, which of the following options is most appropriate as the definition of "bottom line ethics"?
+Choices:
+A. The bottom line ethics is not to steal or kill.
+B. The bottom line ethics are some of the most basic and basic codes of conduct and rules that should be observed by ordinary people in a society.
+C. The bottom line ethics is not an ethics that requires selfless dedication.
+D. If one compares human morality to a building, the bottom line ethics is the fundamental part of that building.
+Answer:<|im_end|>
+<|im_start|>assistant
+C<|im_end|>
+<|im_start|>user
+Passage: Because the conclusion of quantum theory violates intuition, some scientists have different views on this theory. Although they try to strictly indicate that the assertion of quantum theory is inaccurate (that is, try to strictly falsify it), they find that the error lies in Usually within the acceptable statistical range. These results of quantum theory are different from those of competing theories, which makes it reasonable to accept quantum theory.
+Question: Which of the following principles is most helpful to show the rationality of the above reasoning?
+Choices:
+A. A theory should not be considered reasonable before it is tried to strictly falsify.
+B. Only if the assertion of a theory has not been falsified by experiments can this theory be accepted.
+C. If a scientific theory violates intuitive conclusions less than competing theories, then it should be accepted.
+D. If you try to strictly falsify a theory, but the theory has withstood all the tests, then you should accept it.
+Answer:<|im_end|>
+<|im_start|>assistant
+C<|im_end|>
+<|im_start|>user
+Passage: The members of the printing group and the binding group are mainly from the following seven employees-F, G, H, J, K, L and M. The members of each group must meet the following conditions? (1) Each group has at least 3 employees . (2) F and K cannot be in the same group. (3) If K is in a certain group, J must also be in this group. (4) M is at least one of the members of these two groups. (5) At least one of the same employees in both groups.
+Question: If both K and L are members of both groups, and the printing group has exactly three members, which of the following statements must be true?
+Choices:
+A. F in printing group.
+B. F in the binding group.
+C. G in the printing group.
+D. M in the bookbinding group.
+Answer:<|im_end|>
+<|im_start|>assistant
+C<|im_end|>
+<|im_start|>user
+Passage: After all the cold dishes at the banquet at one table were served, there were 7 hot dishes. Among them, three Sichuan dishes? K, L, M? three Cantonese dishes? Q, N, P? one Shandong dish? X. Only one hot dish can be served at a time, and the order of serving must meet the following conditions? (1) Cannot serve Sichuan cuisine or Cantonese cuisine continuously. (2) Unless the second is on Q, P cannot be on before Q. (3) P must be on before X. (4) M must be on before K, and K must be on before N.
+Question: If the fourth is K, which of the following statements may be true?
+Choices:
+A. Fifth on P.
+B. Sixth on X.
+C. Fifth on L.
+D. First on M.
+Answer:<|im_end|>
+<|im_start|>assistant
+C<|im_end|>
+<|im_start|>user
+Passage: Whether a person does good behavior or bad behavior depends on the length of his life. If he only lived one day, it would be best for him to steal other people ’s things because he would not suffer the fear of being caught. Stealing things from others is not the best for someone who can still live for 20 years, because he will suffer the fear of being caught.
+Question: If the following statements are true, except for which one can weaken the above argument?
+Choices:
+A. Only by suffering from the fear of being caught will you not steal things from others.
+B. For people who only live one day, the best course of action may be a meal of beef.
+C. The length of life is not a sufficient condition for a person to choose to do good or bad behavior.
+D. For some people who steal other people's things, conscience condemnation will cause greater pain than fear of seizing.
+Answer:<|im_end|>
+<|im_start|>assistant
+B<|im_end|>
+<|im_start|>user
+Passage: A solid wood flooring seller solemnly promised in his contract text? "The flooring sold in this shop is definitely made of wood; it is responsible for free installation, except for the cost of materials required for installation; free warranty for one year, but not the fault of the company Except for the losses caused. If there is fraud, the company is willing to bear legal responsibility and pay more than 1,000 times the compensation. The company reserves the right to interpret this contract. ".
+Question: Which of the following options is a correct evaluation of the company and its contract?
+Choices:
+A. The company must be very honest because it promises to pay more than 1,000 times in compensation if fraud is discovered.
+B. The company's contract actually has no binding force on its behavior.
+C. The floors sold by the company must be real solid wood floors.
+D. From the customer's perspective, the company's contract terms are acceptable.
+Answer:<|im_end|>
+<|im_start|>assistant
+A<|im_end|>
+<|im_start|>user
+Passage: A provincial Go team coach selects 4 of the 7 players from E, F, G, H, J, K and M to participate in the professional league. The selection must meet the following conditions? E or F has one person to participate, but not both . One of J or K will participate, but not both. If J participates, then G participates. Unless F participates, M does not participate.
+Question: Which of the following four players can participate in the game together?
+Choices:
+A. E, F, H, K.
+B. E, H, J, M.
+C. E, G, J, M.
+D. F, H, K, M.
+Answer:<|im_end|>
+<|im_start|>assistant
+A<|im_end|>
+<|im_start|>user
+Passage: There is a psychological theory that to be happy, one must maintain an intimate relationship with another. However, the greatest philosophers in the world spent most of their lives in isolation, and had no intimate relationships. Therefore, this psychological theory must be wrong.
+Question: Which of the following must be assumed in the above conclusion?
+Choices:
+A. The greatest philosophers in the world prefer to avoid intimate relationships.
+B. People with intimate relationships rarely spend their time alone.
+C. Loneliness is necessary for philosophers to meditate.
+D. The greatest philosophers in the world are happy.
+Answer:<|im_end|>
+<|im_start|>assistant
+A<|im_end|>
+<|im_start|>user
+Passage: The modern French thinker Pascal argued this way? either there is a Christian God, or not. Assuming you believe in the existence of God and live in a Christian way, then if God does exist, you will receive endless well-being? if God does not exist, you will lose very little. However, suppose you do not believe in the existence of God and do not live in a Christian way. If God does not exist, you will not lose anything? if God does exist, you will be endlessly punished. So, don't hesitate anymore, choose to believe in the existence of God and live in a Christian way.
+Question: Which of the following best illustrates the logical loophole of this argument?
+Choices:
+A. The argument incorrectly presupposes that a person can choose whether to believe or not to believe in God at will.
+B. Pascal changed the faith and turned it into a question about self-interest calculation.
+C. If God does not exist, we choose to believe in God, which will lead us to misunderstand the world and spend our lives in a confusing way.
+D. There are many religions in this world, and each religion has a god with unlimited power (God). They will impose unlimited punishment on those who do not believe in themselves.
+Answer:<|im_end|>
+<|im_start|>assistant
+A<|im_end|>
+<|im_start|>user
+Passage: On the eve of the Minsk talks of the Ukrainian authorities ’coordination group, the speakers of“ Donetsk People ’s Republic ”and“ Lugansk People ’s Republic ”announced their negotiating positions? if the Ukrainian authorities do not recognize their territories and the special status of Russian, And without stopping its military operations in the southeast, the conflict cannot be resolved. In addition, the two “Republics” insisted on pardoning all militia armed participants and political prisoners. Some Ukrainian observers commented? Do we recognize the special status of these two so-called "Republics" and can we resolve the conflict by pardoning the militia?
+Question: The comments of Ukrainian observers are best used to refute which of the following?
+Choices:
+A. Even if the Ukrainian authorities recognize the special status of the two "Republic" territories and Russian language, and pardon all militia armed participants and political prisoners, the conflict may still not be resolved.
+B. Even if the conflict is resolved, it is not necessarily because the Ukrainian authorities recognize the "Republic" territory and the special status of Russian.
+C. If the conflict is to be resolved, the Ukrainian authorities must recognize the special status of the two "Republic" territories and the Russian language, and pardon all militia armed participants and political prisoners.
+D. As long as the Ukrainian authorities recognize the special status of the two "Republic" territories and the Russian language, and pardon all militia armed participants and political prisoners, the conflict can be resolved.
+Answer:<|im_end|>
+<|im_start|>assistant
+C<|im_end|>
+<|im_start|>user
+Passage: Some online media reported that let the rice listen to the song of thanksgiving can increase 15%. The results of three consecutive seasons of rice cultivation in Liangshan Village, Fujian confirmed that listening to the Dabei Mantra not only increased by 15%, but also the rice grains were fuller. Some agricultural experts said that music not only helps plants absorb, transfer and transform nutrients, but also achieves insect repellent effects.
+Question: The answer to which of the following questions is least relevant to assess the authenticity of the above report?
+Choices:
+A. Are the other growing conditions of the rice that listens to the Da Bei mantra exactly the same as those that do not listen to the Da Bei mantra?
+B. Is this method feasible for large-scale promotion?
+C. Can experts explain why Da Bei Man is beneficial to the growth of rice but not to the growth of pests?
+D. Does the expert's explanation have reliable theoretical support?
+Answer:<|im_end|>
+<|im_start|>assistant
+A<|im_end|>
+<|im_start|>user
+Passage: The smog in City B is mainly caused by pollutants such as fine particulate matter (PM2.5), nitrogen-hydrogen compounds and inhalable particulate matter (PM10). Statistical research shows that the number of smog and haze weather in City B dropped significantly last year compared with the previous year, and it was the year with the largest decline since relevant statistics. However, the statistical survey shows that the public's anxiety and anxiety about the smog weather in City B has increased greatly in the past year.
+Question: If any of the following statements are true, is it most helpful to eliminate the obvious inconsistencies in the above description?
+Choices:
+A. Last year, the news media reports and comments on the smog weather in City B almost doubled from the previous year.
+B. Some people in City B who are anxious about the haze weather live in areas where PM2.5 is more polluted.
+C. Last year, City B held a large-scale international conference. Temporary measures such as vehicle restrictions and construction site shutdowns were the main reasons for the reduction in haze.
+D. The vast majority of residents in City B are aware of the hazards of smog to humans.
+Answer:<|im_end|>
+<|im_start|>assistant
+D<|im_end|>
+<|im_start|>user
+Passage: Some people firmly believe that there are other advanced civilizations other than human civilization in the universe, because there is no theory and evidence to prove that such a civilization cannot exist.
+Question: Which of the following options is the same as the argument in the question stem?
+Choices:
+A. There are savages in the Shennongjia area because someone has seen the savages.
+B. Since you can't prove that ghosts don't exist, so ghosts exist.
+C. Scientists are not born smart, for example, Einstein did not seem very smart when he was a child.
+D. A scholastic philosopher does not believe that human nerves converge in the brain. The reason is that in Aristotle's writings, nerves are generated from the heart.
+Answer:<|im_end|>
+<|im_start|>assistant
+C<|im_end|>
+<|im_start|>user
+Passage: The problem faced by a developing country is that to maintain its economic development, it must constantly strengthen the competitiveness of domestic enterprises; to maintain social stability, it must constantly establish and improve social security systems such as pensions, medical care, and unemployment. To establish and improve the social security system, enterprises need to pay a certain percentage of social insurance premiums for employees every year. If an enterprise pays such a proportion of social insurance premiums for employees every year, it will reduce the competitiveness of the enterprise.
+Question: Which of the following conclusions can be derived from the above statement?
+Choices:
+A. This country can either maintain its economic development or maintain its social stability.
+B. If we reduce the proportion of companies paying social insurance premiums for employees each year, we can maintain the competitiveness of the company.
+C. This country cannot maintain its economic development or maintain its social stability.
+D. The economic development of this country will be affected to a certain extent.
+Answer:<|im_end|>
+<|im_start|>assistant
+B<|im_end|>
+<|im_start|>user
+Passage: Most of my open-minded friends have read a lot of books, but most of my non-open-minded friends are not. The more you read, the more likely you are to be challenged by new ideas, and your perseverance in your thoughts will be weakened, which makes sense. Reading also frees you from daily life and shows you the diversity and richness of life. Therefore, reading makes people open.
+Question: If the following statement is true, which one most strongly weakens the conclusion above?
+Choices:
+A. Someone loves reading literary works, especially poems, and later writes poems by himself. Now he is a very famous poet.
+B. Some people have read a lot of books, and every time they read a book, it makes sense. Different reasons keep fighting in their heads, and they are almost crazy.
+C. If you only selectively read books of a certain type or opinion, it is likely that the more you read, the more paranoid.
+D. Some people like to put themselves in when they read. When they read "Dream of Red Mansions", they feel that they are Lin Daiyu or Jia Baoyu.
+Answer:<|im_end|>
+<|im_start|>assistant
+D<|im_end|>
+<|im_start|>user
+Passage: Studies have shown that for most people with normal blood pressure, any amount of sodium in excess of the body's needs can be successfully eliminated from the body without significantly increasing blood pressure. Therefore, only those with high blood pressure and those whose body cannot safely handle excess sodium need to limit sodium intake.
+Question: If any of the following statements is true, can the above argument be weakened most effectively?
+Choices:
+A. Ingesting excess sodium sometimes damages the body's ability to handle excess sodium.
+B. Hypertension is sometimes worsened by ingesting more sodium than the body needs.
+C. Anyone needs a certain amount of sodium to maintain the normal physiological functions of the body.
+D. Ingesting any more sodium than the body needs will increase blood pressure unless it is eliminated from the body.
+Answer:<|im_end|>
+<|im_start|>assistant
+C<|im_end|>
+<|im_start|>user
+Passage: There are five stations set up from west to east along a section of the high-speed railway along the river. It is known that Fuyi Station is east of Haoyun Station and West of Huyao Station, and is adjacent to Huyao Station; Jiushang Station is adjacent to Yinling Station.
+Question: If Haoyun Station is adjacent to Yinling Station, you can get?
+Choices:
+A. Yinling is standing west of Haoyun Station.
+B. Fuyi standing west of Jiushang Station.
+C. Hao Yun stands west of Yinling Station.
+D. Jiu Shang standing west of Fuyi Station.
+Answer:<|im_end|>
+<|im_start|>assistant
+A<|im_end|>
+<|im_start|>user
+Passage: If I debate with you, can we distinguish between true and false? You and I do n’t know, and everyone else has prejudices. Who can we judge? Please judge with someone who shares your opinion. Since he has the same opinion as you, how can he judge? Please judge by someone who has the same opinion as me. Since he has the same opinion as me, how can he judge? Please judge with people who have different opinions from you and me. Since he has different opinions from you and me, how can he judge? Therefore, "invincible".
+Question: Which of the following most accurately describes the shortcomings of the above argument?
+Choices:
+A. The above argument seriously ignores the implementation standards and logical standards beyond the debaters and commentators.
+B. The above argument has a logical error of "confused concept".
+C. The reasons in the above argument are untrue and inconsistent with each other.
+D. The above argument is guilty of a "mis-problem" logical error.
+Answer:<|im_end|>
+<|im_start|>assistant
+B<|im_end|>
+<|im_start|>user
+Passage: twenty three. The growth of energy consumption in a region is positively correlated with economic growth, and the difference in growth between the two is usually no more than 15%. In 2003, a statistical report from Zhejiang Province showed that the province ’s energy consumption increased by 30%, while the economic growth rate was 12.7%.
+Question: If the following items are true, all inconsistencies in the above may be reasonably explained, except.
+Choices:
+A. The private economy accounts for a large proportion of Zhejiang's economy, and the growth of some private economy is difficult to be counted.
+B. In order to leave room for economic development in the region, some local officials underreported the economic growth figures.
+C. Due to the sharp increase in energy prices, the economic growth of large state-owned enterprises with high energy consumption generally declined. ?
+D. Due to the sharp increase in energy prices, 90% of the newly invested enterprises in Zhejiang are low-energy enterprises.
+Answer:<|im_end|>
+<|im_start|>assistant
+B<|im_end|>
+<|im_start|>user
+Passage: An institution conducted a survey on the average house prices of three types of residential housing in three cities (A. B, and C) in eastern China (these are villas, ordinary commercial houses, and affordable housing from high to low), and the published information includes The following content? according to the price of villa houses, from high to low are A City, B City, and C City; according to the price of ordinary commercial houses, from high to low are A City, B City, and B City; according to affordable housing prices , From high to low are B city, A city, C city.
+Question: Regarding the overall average price of residential housing in the above three cities, which of the following judgments is wrong?
+Choices:
+A. The overall average price of residential housing in A City is the highest.
+B. The overall average price of residential housing in City B is in the middle.
+C. The overall average price of residential housing in Cingcheng is the lowest.
+D. The overall average price of residential housing in A City is the lowest.
+Answer:<|im_end|>
+<|im_start|>assistant
+C<|im_end|>
+<|im_start|>user
+Passage: There are 7 outstanding students G, H, L, M, U, W and Z in a school. During the summer vacation, the school will send them to the United Kingdom and the United States for inspection. The school has only 7 students participating in this activity, and each person happens to go to one of these two countries. Considering the specialty of each student, this activity must meet the following conditions? (1) If G goes to the UK, then H To the United States. (2) If L goes to the UK, both M and U go to the US. (3) The country w went to was different from the country Z went to. (4) The country where U goes is different from the country where G goes. (5) If Z goes to the UK, then H also goes to the UK.
+Question: Which of the following can be used as a complete and accurate list of students going to the UK?
+Choices:
+A. G, H, M, W.
+B. G, L, Z.
+C. H, M, Z.
+D. M, U, W.
+Answer:<|im_end|>
+<|im_start|>assistant
+B<|im_end|>
+<|im_start|>user
+Passage: In order to alleviate the shortage of oil, China began industrializing the technology of converting corn into fuel ethanol five years ago, commonly known as "grain to oil", and has now become a relatively mature industry. From 2004 to 2006, China's grain harvest has been three consecutive years. This year, international oil prices have reached a new high, but the National Development and Reform Commission has notified the project to stop the production of fuel ethanol from grain.
+Question: Which of the following statements, if true, can best explain the seemingly contradictory phenomenon?
+Choices:
+A. The "grain to oil" project five years ago was an initiative to digest aged grain.
+B. The "grain to oil" project will affect China's food security, which is more important than alleviating oil shortages.
+C. China has developed key technologies for producing fuel ethanol from straw.
+D. In China's corn planting areas, new ethanol plants have started to compete with feed manufacturers for raw materials in recent years.
+Answer:<|im_end|>
+<|im_start|>assistant
+A<|im_end|>
+<|im_start|>user
+Passage: In a car accident, airbags can greatly reduce the risk of serious injuries. However, statistics show that cars without airbags are less likely to be involved in accidents than those with airbags. Therefore, ‘cars with airbags are no safer than cars without airbags.
+Question: Which of the following statements best describes the flaws of the above argument?
+Choices:
+A. Denies this possibility? cars without airbags will have other safety measures to reduce the risk of serious injury.
+B. The argument is only hypothesis without confirmation? cars with airbags may be involved in accidents in the future.
+C. The argument is only a hypothesis and no confirmation? the occurrence of the accident is at least as important as the serious injury caused by the accident in assessing safety issues.
+D. Ignore this possibility? in some accidents, it includes both cars with airbags and cars without airbags.
+Answer:<|im_end|>
+<|im_start|>assistant
+B<|im_end|>
+<|im_start|>user
+Passage: Some Taiwan independence elements argue that all people under the jurisdiction of the People ’s Republic of China are Chinese, and Taiwanese are not under the jurisdiction of the People ’s Republic of China. Therefore, Taiwanese are not Chinese.
+Question: Which of the following reasoning clearly shows that the above argument is not valid?
+Choices:
+A. All successful people have to eat in clothes. I am not a successful person now, so I do n’t have to eat in clothes.
+B. Commodities have use value, and air certainly has use value, so air is of course a commodity.
+C. All technical backbones study hard. Xiao Zhang is a technical backbone. Therefore, Xiao Zhang is a hard-working person.
+D. Criminal behaviors are illegal behaviors, and violations should be condemned by the society, so all criminal behaviors should be condemned by the society.
+Answer:<|im_end|>
+<|im_start|>assistant
+B<|im_end|>
+<|im_start|>user
+Passage: There are 6 warehouses in a warehouse, in order from 1 to 6. There are 6 kinds of goods F, G, L, M, P, T. Each warehouse stores exactly one of 6 kinds of goods, and different kinds of goods cannot be stored in the same warehouse. The following conditions must also be met when storing goods? (1) The warehouse number for storing G is larger than that for storing L (2) The warehouse number storing L is larger than the warehouse number storing T. (3) The warehouse number storing P is larger than the warehouse number storing F. (4) The warehouse storing T is next to the warehouse storing P.
+Question: Which of the following must be false?
+Choices:
+A. The warehouse storing F is next to the warehouse storing M.
+B. The warehouse storing G is next to the warehouse storing M.
+C. The warehouse storing P is next to the warehouse storing L.
+D. The warehouse storing L is next to the warehouse storing F.
+Answer:<|im_end|>
+<|im_start|>assistant
+B<|im_end|>
+<|im_start|>user
+Passage: In a traditional Chinese medicine preparation, there must be at least one kind of ginseng or codonopsis, and the following conditions must also be met? 1) If there is codonopsis, there must be atractylodes.2) Atractylodes macrocephala and ginseng can only have at most one. You must have Shouwu.4) If you have Shouwu, you must have Atractylodes.
+Question: According to the above statement, which of the following can be drawn about this Chinese medicine preparation?
+Choices:
+A. o dangshen.
+B. o Shouwu.
+C.  白 术.
+D.  白 术.
+Answer:<|im_end|>
+<|im_start|>assistant
+D<|im_end|>
+<|im_start|>user
+Passage: A famous painter recently said? I am old, but I am busy all day, and I have no time to think about death or thinking. Besides, if you die, you die, and it ’s not just me who will die alone, nobody else will die. Li Bai is dead, Su Dongpo is dead, and Cao Xueqin is dead, too. It's just that future generations are reading their works.
+Question: From the painter's words, which of the following statements can only be logically derived?
+Choices:
+A. Everyone except the painter will die.
+B. The painter will die.
+C. Not all people will not die.
+D. If the painter will die, at least some other people will die.
+Answer:<|im_end|>
+<|im_start|>assistant
+C<|im_end|>
+<|im_start|>user
+Passage: The media has recently been filled with gossip news about a celebrity, which puts the celebrity in an awkward situation? if she does not come forward to clarify and refute, those rumors will be believed by the public; if she comes forward to clarify and refute, This will attract more people's attention and make those gossip news spread faster and wider. This may be the price that celebrities have to pay.
+Question: If the statement in the stem is true, which of the following must be true?
+Choices:
+A. The celebrity can't actually stop the gossip news from damaging her personal reputation.
+B. The reputation of a celebrity will not be affected by gossip news in the media.
+C. When faced with gossip news, the best strategy the celebrity can take is to clarify the truth.
+D. Some friends of the celebrity came forward to praise her, which would have a counter-effect.
+Answer:<|im_end|>
+<|im_start|>assistant
+D<|im_end|>
+<|im_start|>user
+Passage: Economist? If an enterprise can obtain an acceptable profit without the help of the government, then it has the ability to generate itself. If an enterprise cannot obtain normal profits in an open competitive market, then it has no self-reliance. Unless an enterprise has a policy burden, it will not receive government protection and subsidies. Since the state-owned enterprise has government protection and subsidies, it can make a profit even if it does not have the ability to generate itself.
+Question: If the above statement is true, which of the following statements must be true?
+Choices:
+A. If an enterprise does not have self-reliance, it will be eliminated in the competition.
+B. If an enterprise has government protection and subsidies, it will have a policy burden.
+C. If an enterprise has a policy burden, it can receive government protection and subsidies.
+D. In an open and competitive market, every enterprise has its own ability.
+Answer:<|im_end|>
+<|im_start|>assistant
+C<|im_end|>
+<|im_start|>user
+Passage: A street comprehensive governance committee has 6 members? F, G, H, I, M and P. Each of these members must be a member of at least one of the three sub-committees under the Comprehensive Governance Committee. Each sub-committee is composed of 3 different members. The known information is as follows? one of the six members serves as a member of three subcommittees. F is not a member of the same subcommittee as G. H is not a member of the same subcommittee as I.
+Question: If F and M are not members of the same subcommittee, which of the following statements must be true?
+Choices:
+A. F and H serve on the same subcommittee.
+B. F and I serve on the same subcommittee.
+C. I and P are members of the same subcommittee.
+D. M and G serve on the same subcommittee.
+Answer:<|im_end|>
+<|im_start|>assistant
+B<|im_end|>
+<|im_start|>user
+Passage: A research report shows that the proportion of children of cadres in Peking University increased from 20% in the 1980s to nearly 40% in 1977, surpassing the children of workers, farmers and professional technicians, and becoming the largest source of students. According to this, some media believe that the proportion of students and children of Peking University students has been rising for 20 years, surpassing other classes.
+Question: Which one, if true, most doubts the views of the above media.
+Choices:
+A. Many of the cadres counted in the past 20 years are enterprise cadres, which used to include only government officials.
+B. Compared with foreign countries, Chinese education provides workers and peasants with more opportunities for education and social mobility.
+C. After the founding of New China, more and more children of workers and peasants entered the university.
+D. Some of the workers ’children in the statistics may be former farmers’ children.
+Answer:<|im_end|>
+<|im_start|>assistant
+D<|im_end|>
+<|im_start|>user
+Passage: On August 3, 2003, a "human fossil of 110,000 years ago" was unearthed from the Zhangkoudong ancient human site in Jiuxiang, Yiliang County. The announcement of this excavation immediately attracted wide attention from the media and experts. Many experts who participated in the excavation believe that the appearance of this human tooth fossil indicates that Zhangkoudong had human activities as early as 110,000 years ago. It will rewrite the Kunming area defined by the ancient human ruins of Longtan Mountain in Chenggong County. Mankind has only 30,000 years of history.
+Question: Which of the following, if true, most doubts the opinions of the above experts?
+Choices:
+A. Academics are inherently controversial, and everyone has the right to express their opinions;.
+B. Some experts analyzed the fossil's long axis, crown shape, crown lip and tongue surface protrusion and enamel, etc. , that this fossil is not a human incisor fossil, but a deer tooth fossil;.
+C. This tooth fossil was excavated in the red sand layer 20 cm below the calcium plate 110,000 years ago;.
+D. Some experts used the uranium method to date the calcium plates of each layer of Zhangkou Cave, and proved that the earliest deposits of the fossil tooth were formed 300,000 years ago;.
+Answer:<|im_end|>
+<|im_start|>assistant
+C<|im_end|>
+<|im_start|>user
+Passage: David is a senior CEO, he made up his mind to go to a company with the best pay. Huizhong Company and Kangtuo Company intend to hire him. The two companies have the same treatment in other respects, only the salary is slightly different. The conditions provided by Huizhong Company are? half a year's salary is 500,000 US dollars, and the salary is increased by 50,000 US dollars every six months. Kang Tuo's conditions are? annual salary of 1 million US dollars, annual salary increase of 200,000 US dollars.
+Question: Which one of the following correctly describes David's choice?
+Choices:
+A. David will go to Cantor because he will get $ 150,000 more in two years.
+B. David will go to Huizhong Company because he will get more than 50,000 US dollars every year.
+C. David will go to Cantor because he will spend an extra $ 50,000 per year.
+D. David will go to Huizhong Company because he will spend an extra $ 70,000 every year.
+Answer:<|im_end|>
+<|im_start|>assistant
+D<|im_end|>
+<|im_start|>user
+Passage: Compared with small and medium-sized cities, especially small cities and towns, large cities have higher living costs, which inevitably limits the entry of rural population. Therefore, the development of large cities alone cannot actually achieve urbanization.
+Question: Which of the following is the conclusion must be assumed.
+Choices:
+A. Urbanization is the only way for China's development.
+B. Simple development of large cities is not conducive to the promotion of urbanization.
+C. To achieve urbanization, the city must fully absorb the rural population.
+D. The attractiveness of large cities to the rural population in the outside world is significantly lower than that of small and medium-sized cities.
+Answer:<|im_end|>
+<|im_start|>assistant
+B<|im_end|>
+<|im_start|>user
+Passage: The combat effectiveness of the army depends on weaponry and personnel quality. Georgia, which suffered heavy losses in the conflict with the Russian army in 2008, is preparing to spend $ 9 billion to re-arm its army with modern equipment. Although the United States strongly supports Georgia ’s military strengthening, it is not prepared to sell advanced weapons to it.
+Question: The following statements, except which one, can explain this American approach?
+Choices:
+A. Russia is ready to demand that the Security Council impose an arms embargo on Georgia.
+B. The Georgian army has prepared for this war for 3 years, and despite being fully equipped with American equipment, it is vulnerable.
+C. The planes of the Georgian army gave up taking off hours after the war, and the patrol boat was directly captured by the Russian army and transported away by truck.
+D. A senior general of the Georgian army escaped and abandoned the troops.
+Answer:<|im_end|>
+<|im_start|>assistant
+D<|im_end|>
+<|im_start|>user
+Passage: Regarding how to define "naked officials", the "Interim Provisions" clarified the following three categories of national staff as "naked officials"? spouses and children have moved outside the country (border); no children The spouse has moved outside the country (boundary); without the spouse, the children have moved outside the country (boundary). In 2014, the Central Organization Department issued the relevant "Administrative Measures" stipulating that? If the spouse has moved outside the country (boundary) or has no spouse, the national staff who have moved outside the country (boundary) are all "naked officials".
+Question: Which of the following statements is consistent with the above two documents?
+Choices:
+A. According to the "Administrative Measures", only national staff whose children have migrated outside the country (border) are "bare officials".
+B. For national staff with both spouses and children, the provisions of the two documents are the same.
+C. According to the "Interim Regulations", as long as the spouse of a staff member of a certain country has moved outside the country (border), he or she is a "naked official".
+D. For national staff with only spouse and no children, the provisions of the two documents are the same.
+Answer:<|im_end|>
+<|im_start|>assistant
+C<|im_end|>
+<|im_start|>user
+Passage: The vervet monkey will notify the companion with a scream when it finds a carnivore nearby. Vervet monkeys will scream differently depending on whether the danger comes from land or air.
+Question: If which of the following statements is true, is it most helpful to explain the above behavior of the vervet monkey?
+Choices:
+A. Some terrestrial carnivores only eat vervet monkeys, and raptors attacking vervet monkeys from the air feed on various animals.
+B. Vervet monkeys climb onto trees to avoid terrestrial carnivores, and underneath potential leaves to avoid raptors.
+C. No predator that poses a danger to vervet monkeys can attack vervet monkeys from both land and air.
+D. Different types of carnivores can deal with different numbers of vervet monkeys.
+Answer:<|im_end|>
+<|im_start|>assistant
+A<|im_end|>
+<|im_start|>user
+Passage: Advertisement? "Zhi Lixiao" is a new type of diet pills, which can effectively help fat people lose weight. In clinical trials, only 6 out of 100 people taking Zhilixiao reported side effects. Therefore, 94% of people have a positive effect after taking Zhilixiao, which is the most effective weight loss drug on the market.
+Question: Which of the following statements most appropriately points out the problem with the advertisement?
+Choices:
+A. The advertisement depreciates other weight loss pills, but does not provide enough evidence that there is unfair competition.
+B. The advertisement makes a suspicious assumption? if the drug has no side effects, it will have a positive effect on weight loss.
+C. When the advertisement proves the weight loss effect of Zhilixiao, the sample data provided is too small to be representative.
+D. Moving flowers, exaggerating, false propaganda, this is a common problem of all advertisements, and this advertisement is no exception.
+Answer:<|im_end|>
+<|im_start|>assistant
+D<|im_end|>
+<|im_start|>user
+Passage: A unit arranges for 6 people on duty on the first day, second day, third day of the new year. They are G. , H, K, L, P, and S. Two people are required per day. The personnel arrangement must meet the following conditions? (1) L and P must be on duty on the same day. (2) G and H cannot be on duty on the same day. (3) If K is on the first day of duty, then G is on the second day of duty. ) If S is on the third day of duty, then H is on the second day of duty.
+Question: If P is on duty in the second day, which of the following can be true?
+Choices:
+A. S on duty in the third day.
+B. H is on duty in the second day.
+C. K on duty in the first day.
+D. G on duty at the first day.
+Answer:<|im_end|>
+<|im_start|>assistant
+A<|im_end|>
+<|im_start|>user
+Passage: According to statistics, the number of people dying of hunger in the world is as high as 10 million a year, and the Chinese waste about 8 million tons of food on the table every year, which is supposed to be the ration of 1.1 billion people a year. This means that if we can effectively eliminate food waste on the table, we can save millions of hungry people.
+Question: If the following statement is true, which one is most appropriate to challenge the above conclusion?
+Choices:
+A. Bad weather causes food prices to fluctuate, exacerbating the problem of hunger.
+B. Today's agricultural development level has been able to protect the world's people from hunger from a total amount.
+C. Consumption can promote economic development, and one way for the rich to help the poor is to increase waste.
+D. Eliminating food waste is only a favorable condition to solve the problem of hunger.
+Answer:<|im_end|>
+<|im_start|>assistant
+D<|im_end|>
+<|im_start|>user
+Passage: Homo erectus originated in Africa about 2 million years ago and spread to Eurasia; modern people appeared about 200,000 years ago. Both human fossils are distributed in China. For example, the "Beijing people" unearthed in the ancient stratum of Zhoukoudian, Beijing belonged to Homo erectus; the "shandingdong people" in the stratum of the previous year belonged to modern people. A study of the contemporary Chinese population found that the Y chromosome inherited from the paternal lineage originated in Africa and originated in 8.9 10,000 years to 35,000 years ago; the mitochondrial DNA inherited from the maternal line originated in Africa, with a time of origin within 100,000 years; no genetic component of H. erectus was detected.
+Question: If the above statement is true, which hypothesis is best supported?
+Choices:
+A. The descendants of "Beijing people" may be extinct. The ancestors of Chinese contemporary people came to Asia from Africa about 100,000 years ago.
+B. Chinese Homo erectus and modern people are from the African continent, and their hybrid descendants are the ancestors of contemporary Chinese.
+C. The "Stop Cave Man" in Zhoukoudian, Beijing evolved from "Beijing People".
+D. Contemporary Chinese are descendants of Homo erectus that spread from Africa to Eurasia 2 million years ago.
+Answer:<|im_end|>
+<|im_start|>assistant
+B<|im_end|>
+<|im_start|>user
+Passage: Umbilical cord blood refers to the blood left in the placenta and the umbilical cord after the baby is delivered and the umbilical cord is ligated and cut off. The hematopoietic stem cells contained in it can cause leukemia and severe anemia. Some malignant tumors and other diseases have significant curative effects, and they are precious self-help resources that are no longer missing in life. Parents preserve cord blood for newborns, which can provide a guarantee for the child's health throughout life.
+Question: If the following statement is true, all but one of the items can weaken the conclusion discussed above.
+Choices:
+A. At present, the probability of stem cell transplantation due to blood diseases in China is extremely small, and the cost of storing cord blood is expensive.
+B. Umbilical cord blood, peripheral blood, and bone marrow have become the three major sources of hematopoietic stem cells.
+C. At present, umbilical cord blood is not the most effective way to treat many malignant diseases in clinic, but is an adjuvant treatment.
+D. Umbilical cord blood is usually stored at 50 ml, so such a small amount has little effect on the treatment of most adults.
+Answer:<|im_end|>
+<|im_start|>assistant
+C<|im_end|>
+<|im_start|>user
+Passage: An evaluation agency conducted a social survey to evaluate the popularity of books. The results show that the sales of life books exceed the sales of science and technology books, so the popularity of life books is higher than that of science and technology books.
+Question: Which of the following best refutes the above argument?
+Choices:
+A. The sales volume only partially reflects the popularity of the book.
+B. Those who purchase technology books are often highly educated.
+C. The types of life books far exceed the types of science and technology books.
+D. Some books sold may not be read.
+Answer:<|im_end|>
+<|im_start|>assistant
+D<|im_end|>
+<|im_start|>user
+Passage: There must be an outside world, because if there is something outside me that can shine or reflect, shining the light into my eyes, which gives me a visual experience, I ca n’t see the buildings, the crowds and the stars these things. And, not only have visual experience like me, but others also have such visual experience; book knowledge also tells us repeatedly that there is an outside world outside of us.
+Question: Which of the following does not constitute doubt or rebuttal to the above argument?
+Choices:
+A. To use sensory evidence to explain the existence of the external world requires presupposing the existence of the external world in the mind.
+B. How do you prove that others have similar visual experience to you?
+C. Since the visual experience is reliable, Mirage is not a so-called illusion, but a real existence.
+D. If there is no external world and natural science knowledge is not a true reflection of it, then why does natural science achieve such great success in practice?
+Answer:<|im_end|>
+<|im_start|>assistant
+A<|im_end|>
+<|im_start|>user
+Passage: The nutritional value is evaluated based on the content of 27 kinds of human essential nutrients. Vegetables with particularly high water content have low nutritional value. The water content of yam is low, so the nutritional value of yam will be high.
+Question: Which of the following reasoning has the same form as the above reasoning?
+Choices:
+A. Stars are all self-luminous, Venus is not a star, so Venus is not self-luminous.
+B. Commodities have use value, and of course air has use value, so air is a commodity.
+C. Everyone who desires success works hard, he does not work hard, so he is not a person who desires success.
+D. All contracts concluded by fraud are invalid, and invalid contracts are not binding. Therefore, all non-binding contracts are concluded by fraud.
+Answer:<|im_end|>
+<|im_start|>assistant
+C<|im_end|>
+<|im_start|>user
+Passage: After all the cold dishes at the banquet at one table were served, there were 7 hot dishes. Among them, three Sichuan dishes? K, L, M? three Cantonese dishes? Q, N, P? one Shandong dish? X. Only one hot dish can be served at a time, and the order of serving must meet the following conditions? (1) Cannot serve Sichuan cuisine or Cantonese cuisine continuously. (2) Unless the second is on Q, P cannot be on before Q. (3) P must be on before X. (4) M must be on before K, and K must be on before N.
+Question: Which of the following may be true?
+Choices:
+A. The second on P.
+B. The third on N.
+C. The second on K.
+D. Second on L.
+Answer:<|im_end|>
+<|im_start|>assistant
+B<|im_end|>
+<|im_start|>user
+Passage: A blogger declared? "My analysis of the future trend of housing prices has received more than 1,000 netizens' follow-up posts. I counted them, and 85% of the follow-up posts agree with my opinion. This shows Most people agree with me. ".
+Question: Which of the following can best question the blogger ’s conclusion?
+Choices:
+A. Although some people agree with his views, they do not agree with his analysis.
+B. The blogger's other articles with higher approval ratings later proved to be wrong.
+C. Some of the objections to the post are more fully justified.
+D. Most people who follow this blogger's article are their loyal fans.
+Answer:<|im_end|>
+<|im_start|>assistant
+C<|im_end|>
+<|im_start|>user
+Passage: To date, the oldest Homo sapiens remains have appeared in Africa, about 200,000 years ago. According to this, many scientists believe that humans originated in Africa, and Homo sapiens, the direct ancestor of modern people, evolved in Africa about 200,000 years ago, and then slowly migrated northwards about 150,000 to 200,000 years ago , Crossing the Middle East to Europe and Asia, and gradually migrating to other parts of the world.
+Question: Which of the following, if true, can best refute the views of the above scientists?
+Choices:
+A. Modern Homo sapiens, living in the late Paleolithic period, about 40,000 to 10,000 years ago. There are hundreds of places where late Homo sapiens fossils or cultural sites have been found in our country.
+B. In an archaeological excavation in South America, people discovered the fossils of Homo sapiens skulls that lived about 170,000 years ago.
+C. Homo sapiens have the extraordinary ability to communicate with each other, make plans, and solve difficult problems.
+D. Eight Homo sapiens teeth 400,000 years ago were discovered in the Qesem cave 12 km east of Tel Aviv, Israel.
+Answer:<|im_end|>
+<|im_start|>assistant
+C<|im_end|>
+<|im_start|>user
+Passage: Seven security guards of Zhao, Qian, Sun, Li, Wu, Zheng, and Wang take turns on a night shift every week. In terms of duty time. It is known that Zhao is one day later than Sun; Li is two days later than Wu; Qian is three days earlier than Wang; Zheng is between Qian and Sun, and is on Thursday.
+Question: Based on the above questions, which of the following options for night duty is true?
+Choices:
+A. Wu on Sunday.
+B. The money is on Tuesday.
+C. Lee is on Tuesday.
+D. Sun is on Friday.
+Answer:<|im_end|>
+<|im_start|>assistant
+B<|im_end|>
+<|im_start|>user
+Passage: A television advertisement said that grassland green birds and chickens, hungry to eat grass and greedy to eat grasshoppers, seem to imply that the nutritional value of the breeder chicken and its eggs is related to the grassland food eaten by the breeder chicken.
+Question: To verify this conclusion, which of the following experimental methods is the most reliable?
+Choices:
+A. Select an excellent breed of laying hens to feed on the grassland, and then compare with the nutrient composition of the common chickens fed on the grassland.
+B. Test and compare the nutritional content of chicken food on grassland and non-grassland chicken food.
+C. Choose laying hens of the same breed grade, half of them are fed on the grassland and half are fed on the non-steppe, and then compare their nutritional content.
+D. Select different breeds of laying hens, feed them on the grassland, and compare their nutritional content.
+Answer:<|im_end|>
+<|im_start|>assistant
+D<|im_end|>
+<|im_start|>user
+Passage: A national academic conference held by a society receives nearly 1,000 conference papers each time. In order to ensure the quality of the conference communication papers, the academic conference organizing committee decided to select only 10% of the papers from the conference papers as conference communication papers each time.
+Question: The decision of the academic conference organizing committee is most likely based on which of the following assumptions?
+Choices:
+A. There is always a certain percentage of paper quality in every conference paper submitted.
+B. The number of conference papers received each time in the future will not change significantly.
+C. 0% of conference papers do not meet the quality of conference papers.
+D. The academic conference organizing committee can make accurate judgments on the quality of the paper.
+Answer:<|im_end|>
+<|im_start|>assistant
+C<|im_end|>
+<|im_start|>user
+Passage: In August 2014, more than 200 Russian trucks carrying relief supplies entered eastern Ukraine. If the Ukrainian government ’s military operations in the east directly or indirectly attacked the Russian convoy, it may trigger the Russian side to take strong measures; if the Ukrainian government army temporarily Stopping military operations in the east to ensure the safety of the Russian convoy will give the civilian armed forces in a disadvantage a breathing opportunity.
+Question: If the above statement is true, which of the following must be true?
+Choices:
+A. If the Ukrainian government forces attack the Russian convoy, there will be no chance for the civilian armed forces to take a breather.
+B. If the Ukrainian government army does not give the civilian armed forces a breathing opportunity, it may trigger the Russian side to take strong measures.
+C. If civilian armed forces in eastern Ukraine take a breather, Russia will not take strong measures.
+D. The Russian convoy entered Ukraine to help civilian armed forces in eastern Ukraine.
+Answer:<|im_end|>
+<|im_start|>assistant
+C<|im_end|>
+<|im_start|>user
+Passage: In the past 100 years, in the Dali Lake area, a long-term drought has shrunk a lot of grassy wetlands into saline land. The grassy wetland is where ducks, geese and other species of waterbirds nest and hatch. However, with the continuous shrinkage of the wetlands, the average rate of decline in the number of red ducks in this area is far lower than the average rate of decline in the number of swans.
+Question: If which of the following statements is true, gives the best explanation for the inconsistency above?
+Choices:
+A. Red ducks hatch 8 to 10 eggs per nest, and swans hatch 2 to 3 eggs per nest. The survival rate is about the same.
+B. The strengthening of environmental protection measures has slowed down the average decline in the number of red ducks, swans and other species of waterbirds.
+C. Both red ducks and swans are migratory birds, and red ducks are more likely to be killed during the migration process.
+D. In addition to the wetlands, red ducks gradually learned to nest in tree caves and cliff caves, but swan failed to do so.
+Answer:<|im_end|>
+<|im_start|>assistant
+C<|im_end|>
+<|im_start|>user
+Passage: The Terracotta Warriors and Horses of Qin Shihuang unearthed in Shaanxi were painted on the surface with raw lacquer and painted. This provides important information for studying the clothing color of the soldiers of the Qin Dynasty. However, after the terracotta warriors are unearthed, the raw paint on the surface will quickly warp and curl, causing the entire painted layer to fall off. Therefore, it must be protected by two methods of protection liquid and monomer penetration, otherwise it cannot be used for research. Once these two methods are used to protect the terracotta warriors, all the information about the Qin Dynasty painting techniques that researchers may obtain from it will be broken.
+Question: If the above statement is true, which of the following must be true?
+Choices:
+A. After taking protective measures, the Qin Terracotta Warriors and Horses can only provide information about the clothes of the Qin Dynasty soldiers.
+B. A terracotta warrior for studying the clothes of the Qin dynasty soldiers cannot be a source of new information for understanding the painting techniques of the Qin dynasty.
+C. The Terracotta Army of Qin is the only source of information for understanding the painting techniques of the Qin Dynasty.
+D. A terracotta warrior without protective measures can provide more information than a terracotta warrior after taking protective measures.
+Answer:<|im_end|>
+<|im_start|>assistant
+B<|im_end|>
+<|im_start|>user
+Passage: The traditional view is that most of the methane that causes the greenhouse effect comes from wetlands and the digestive tract of ruminants. It is not known that green plants that can absorb carbon dioxide also release methane. Scientists have discovered a surprising result? the annual methane emissions from green plants worldwide are between 60 million and 240 million tons, accounting for 10% to 40% of the global annual methane emissions, and about 2/3 of them come from tropical regions rich in vegetation.
+Question: The following statements, except which one, can support the scientist's point of view?
+Choices:
+A. If you do not consider green plants, after excluding all other factors, there are still a lot of sources of methane in the world that cannot be explained.
+B. German scientists observed methane clouds appearing over tropical rain forests through satellites. This phenomenon cannot be explained by known global sources of methane.
+C. American chemists analyzed air samples taken from the savanna of Venezuela and concluded that the amount of methane released by vegetation in the area is between 30 million and 60 million tons.
+D. Some scientists emphasized that the recent increase in methane content and global warming have nothing to do with forests, and plants are innocent.
+Answer:<|im_end|>
+<|im_start|>assistant
+C<|im_end|>
+<|im_start|>user
+Passage: twenty three. Zhang Hua said to Wang Lei? You told me that as the legal owner of the company, as long as I want, I have the right to sell it. However, you told me that if I sold it, the loyal employees would suffer misfortune, so I have no right to do so. Obviously, your two claims are inconsistent.
+Question: Which of the following statements best describes the flaws in Zhang Hua ’s inference?
+Choices:
+A. Zhang Hua ignored that his employees also had the rights related to the sale of the company.
+B. Zhang Hua did not provide sufficient and reliable reasons for selling his company.
+C. Zhang Hua's right not to sell his company now does not mean that he never has the right to sell it.
+D. Zhang Hua confuses company ownership with responsibility for loyal employees.
+Answer:<|im_end|>
+<|im_start|>assistant
+C<|im_end|>
+<|im_start|>user
+Passage: There are 6 rectangular vegetable ponds of the same size in a plastic shed, arranged in order from left to right? 1, 2, 3, 4, 5 and 6. And No.1 and No.6 are not adjacent. There are exactly 6 kinds of vegetables that need to be planted in the greenhouse? Q, L, H, x, S and Y. Each vegetable pond can only grow one of them. The planting arrangement must meet the following conditions? Q is planted in a vegetable pond on the left side of H. X species are in No.1 or No.6 vegetable ponds. No.3 vegetable pond is planted with Y or s. L is planted right next to S.
+Question: If the H species is in No.2 Caichizi, which of the following statements must be true?
+Choices:
+A. X species are in No.6 vegetable pond.
+B. Type L is in No.4 vegetable pond.
+C. L is planted in No.5 vegetable pond.
+D. Type Y is in No.3 vegetable pond.
+Answer:<|im_end|>
+<|im_start|>assistant
+B<|im_end|>
+<|im_start|>user
+Passage: The People's Bank of China announced that from July 20, 2013, the interest rate control of financial institutions' loans will be fully liberalized. However, only by liberalizing the upper limit of deposit interest rates can we truly realize the marketization of interest rates. If the government does not voluntarily give up its own power, market forces will be difficult to play a role. Once the upper limit of deposit interest rates is lifted, interest rate wars will begin between banks, leading to increased financial risks. If financial risks rise, a deposit insurance system needs to be established.
+Question: If the above statement is true, which of the following statements must be true?
+Choices:
+A. With the deepening of reform, sooner or later China will truly realize the marketization of interest rates.
+B. Only by establishing a deposit insurance system can China truly realize the marketization of interest rates.
+C. As long as the government voluntarily gives up its own power, market forces can play a role.
+D. As long as the deposit insurance system is established, financial risks can be effectively avoided.
+Answer:<|im_end|>
+<|im_start|>assistant
+D<|im_end|>
+<|im_start|>user
+Passage: There are 6 scholars F, G, J, L, M, and N, who will speak at a logical meeting, and the speeches are arranged in the following order? (1) Each speaker speaks only once, and only once at the same time By. (2) Three speakers speak before lunch, and the other three speak after lunch. (3) G must speak before lunch. (4) Only one speaker is between M and N. (5) F speaks in the first or third place.
+Question: If J is the fourth speaker, who must be the third speaker?
+Choices:
+A. F or M.
+B. L or N.
+C. G or L.
+D. M or N.
+Answer:<|im_end|>
+<|im_start|>assistant
+A<|im_end|>
+<|im_start|>user
+Passage: A theater plans to perform 7 repertoires in the 7 weeks of the fall, they are F, G. , J, K, O, R, S. One repertoire is performed every week, and each repertoire is exactly one week. The repertoire must meet the following conditions? (1) G must be performed in the third week. (2) O and S cannot perform continuously. (3) K must be arranged before J and S. (4) F and J must be arranged to perform in two consecutive weeks.
+Question: If F is scheduled for the fifth week, which of the following correctly lists all the plays that can be scheduled for the seventh week?
+Choices:
+A. J, S.
+B. O, R.
+C. O, R, S.
+D. K, O, R.
+Answer:<|im_end|>
+<|im_start|>assistant
+A<|im_end|>
+<|im_start|>user
+Passage: Scientists? It has been proved that the adoption of new farming methods can enable some well-managed farms to reduce the use of chemical fertilizers, pesticides and antibiotics without significantly reducing production or even increasing production. Critics? Not really. The farm you choose is the one most likely to succeed using these new methods. Why not mention those farms that tried new methods but failed in the end?
+Question: Which of the following statements best evaluates the critics' rebuttal?
+Choices:
+A. Critics believe that the new farming methods should be able to be generalized.
+B. Critics have shown that if the number of farms under study is greatly increased, different results will be obtained.
+C. Critics assume for no reason that some farm failures are not caused by their soil quality.
+D. The critic's rebuttal is wrong, because the scientist aims to show that a certain situation may occur, which has nothing to do with whether the research object is representative.
+Answer:<|im_end|>
+<|im_start|>assistant
+B<|im_end|>
+<|im_start|>user
+Passage: The proactive fiscal policy uses the method of issuing treasury bonds to make up for the fiscal deficit. The old bonds are due, the principal and interest have to be repaid, and some of the new bonds issued have to pay off the old bonds. As time goes by, there are more and more old debts, more and more new debts are used to pay off old debts, less investment is used, and the economic benefits are getting worse.
+Question: Which of the following statements is the assumption upon which the above argument relies?
+Choices:
+A. The economic benefits of active fiscal policy are declining.
+B. The funds raised by the proactive fiscal policy can only be used for infrastructure construction.
+C. The method of using government bonds to make up for fiscal deficits cannot be used for a long time.
+D. Before the maturity of the national debt, its investment return is not enough to repay the debt.
+Answer:<|im_end|>
+<|im_start|>assistant
+A<|im_end|>
+<|im_start|>user
+Passage: The area of ​​the equatorial rainforest in country H decreases at an alarming rate every year, which has attracted global attention. However, data from satellite photos show that the reduction in rainforest area in country H last year was significantly lower than in previous years. Last year, the government of Country H spent millions of dollars to stop deforestation and forest fires. The government of country H claimed that the data from the satellite photos indicated that the efforts of the government to protect the equatorial rainforest had achieved remarkable results.
+Question: Which of the following, if true, would most weaken the above conclusions of the government of Country H?
+Choices:
+A. Last year, H ’s financial investment to protect the equatorial rainforest was significantly lower than in previous years.
+B. The area of ​​the equatorial rainforest in country G, which is adjacent to country H, has not decreased.
+C. Last year's dry season in Country H saw unusually large and continuous rainfall.
+D. The cost of rainforest protection in country H only accounts for a small percentage of annual fiscal expenditure.
+Answer:<|im_end|>
+<|im_start|>assistant
+B<|im_end|>
+<|im_start|>user
+Passage: There are 7 candidates hired by Haier? F, G, H, I, W, X and Y. One of them needs to be assigned to the public relations department, three to the production department, and the other three to the sales department. The personnel allocation of these 7 employees must meet the following conditions? (1) H and Y must be allocated in the same department. (2) F and G cannot be allocated in the same department (3) If X is allocated in the sales department, W is allocated in the production department. (4) F must be allocated in the production department.
+Question: Which of the following may list the final distribution of these 7 employees?
+Choices:
+A. Public Relations Department? W; Production Department? F, H, Y; Sales Department? G, I, X.
+B. Public Relations Department? W; Production Department? G, I, X; Sales Department? F, H, Y.
+C. Public Relations Department? X; Production Department? F, G, H; Sales Department? I, Y, W.
+D. Public Relations Department? X; Production Department? F, I, W; Sales Department? G, H, Y.
+Answer:<|im_end|>
+<|im_start|>assistant
+C<|im_end|>
+<|im_start|>user
+Passage: Scientists have found that the content of a protein called "SK3" in the brains of experimental rats of different ages is closely related to their memory ability? the brain content of SK3 protein in the brains of old experimental rats is higher, but the content in younger experimental rats is less; and Older rats have worse memory than younger rats. Therefore, scientists believe that increased brain SK3 protein content will lead to memory loss in the experimental mice.
+Question: Which of the following, if true, best supports the scientist ’s conclusion?
+Choices:
+A. In young experimental rats, it is also found that the brain SK3 protein content is high.
+B. It has been found that the human brain also contains SK3 protein.
+C. When the scientists tried to reduce the content of SK3 protein in the brains of old experimental mice, their memory improved.
+D. Scientists have figured out the molecular structure of SK3 protein.
+Answer:<|im_end|>
+<|im_start|>assistant
+D<|im_end|>
+<|im_start|>user
+Passage: Recently, the eight major ministries and commissions such as the State Administration of Press and Publication jointly announced that the "Online Game Anti-Addiction System" and the accompanying "Online Game Anti-Addiction System Real-Name Authentication Scheme" will be officially implemented this year. Hours, experience value and income will be counted as 0. The implementation of this program will effectively prevent minors from indulging in online games.
+Question: Which of the following statements, if correct, can weaken the above conclusion most effectively?
+Choices:
+A. Many minors only play online games occasionally. ‘‘ Internet game anti-addiction system ’has no effect on them.
+B. "Online game anti-addiction system" does not work for adults, and minors may use adult identity or use some online tools to generate fake ID numbers to log in to online games.
+C. The introduction of the "Online Game Anti-Addiction System" means that minors are allowed to play online games with the permission of the competent department, so that they can go from secret to public.
+D. In addition to online games, there are stand-alone games and PS games played on TV sets. ‘‘ Online game anti-addiction system ’may cause many underage players to switch to these games.
+Answer:<|im_end|>
+<|im_start|>assistant
+A<|im_end|>
+<|im_start|>user
+Passage: As long as there are scammers in this society and some people have greed in their hearts, then someone must be cheated. So if society progresses so that no one is deceived, then people in that society must have universally eliminated greed.
+Question: Which of the following best supports the above argument?
+Choices:
+A. The greater the greed, the easier it is to be deceived.
+B. The society has improved, and the scammers will no longer exist.
+C. With the progress of society, the quality of people will generally improve, and greed will gradually be eliminated.
+D. No matter in what society, scammers always exist.
+Answer:<|im_end|>
+<|im_start|>assistant
+C<|im_end|>
+<|im_start|>user
+Passage: If the senior management personnel do not participate in the formulation of the compensation policy, the company's finalized compensation policy will not succeed. In addition, if more management personnel participate in the formulation of the compensation policy, tell the company that they think the important compensation policy, the company's final compensation policy will be more effective.
+Question: If the above statement is true, which of the following statements cannot be false?
+Choices:
+A. Unless more managers participate in the formulation of the compensation policy, the company's final compensation policy will not succeed.
+B. Either the senior management personnel themselves participate in the formulation of the compensation policy, or the company's finalized compensation policy will not succeed.
+C. If the senior management himself participates in the formulation of the compensation policy, the company's finalized compensation policy will succeed.
+D. If more managers participate in the formulation of the compensation policy, the company's finalized compensation policy will be more effective.
+Answer:<|im_end|>
+<|im_start|>assistant
+A<|im_end|>
+<|im_start|>user
+Passage: In September 2012, the European Union launched an anti-dumping investigation against Chinese photovoltaic cells. Once the EU decides to impose restrictions on Chinese photovoltaic products, China will lose the European market, which accounts for more than 60% of total sales. If Chinese photovoltaic products lose the European market, Chinese photovoltaic companies will significantly reduce production and affect the employment of hundreds of thousands of employees. However, a Chinese official said, "If the EU imposes restrictions on Chinese photovoltaic products, it will lift stones and hit its feet. ".
+Question: If the following statement is true, which one will give the strongest support to Chinese officials' assertions?
+Choices:
+A. China's photovoltaic industry purchases a lot of raw materials and equipment from Europe, which has driven the development of a large number of photovoltaic upstream and downstream companies in the EU.
+B. If the European Union keeps high-quality and low-priced Chinese photovoltaic products out of the door, European solar consumers will pay higher costs.
+C. The solar energy industry is related to the energy security of the European Union. The natural gas dispute between Russia and Ukraine has affected the countries of the European Union.
+D. At present, the European debt problem continues to deteriorate, and Germany hopes to fight for China to provide more help in solving the European debt crisis.
+Answer:<|im_end|>
+<|im_start|>assistant
+D<|im_end|>
+<|im_start|>user
+Passage: In the recruitment examination for the public selection of deputy chiefs in a certain department, a total of 7 people were registered as A. B, C, D, E, G and G. According to statistics, the highest academic qualifications among the 7 people are undergraduate and doctor. Among them there are 3 people who graduated with Ph. D . ; 3 women. It is known that? A. B, and C have the same educational level, while G and G have different educational levels; E, G, and G have the same gender, and A and D have different genders. The final appointment was a female doctor.
+Question: Based on the above statement, which of the following can be derived?
+Choices:
+A. A is a male doctor;.
+B. I am a female doctor;.
+C. Geng is not a male doctor;.
+D. Ding is a female doctor.
+Answer:<|im_end|>
+<|im_start|>assistant
+C<|im_end|>
+<|im_start|>user
+Passage: A former deputy chairman of the Shanxi Vinegar Industry Association said that only 5% of Shanxi's old vinegar on the market is genuine Shanxi old vinegar without additives. In an interview with a reporter on this incident, a vice president of the China Condiment Association said? "As long as additives are added according to national standards, there are no safety issues. Some companies emphasize that they do not add additives, which is true for companies that add additives according to normal standards unfair. ".
+Question: Which of the following statements can be logically derived from the words of the vice president of the condiment association?
+Choices:
+A. In order to ensure fairness, enterprises should either not produce products higher than national standards, or keep secrets about the fact that product quality is higher than national standards.
+B. To promote technological innovation in the industry, the national standards of the industry should be raised.
+C. The national standard of an industry is too high, which is not conducive to the healthy development of the industry.
+D. If additives are not added according to national standards, there will be safety problems.
+Answer:<|im_end|>
+<|im_start|>assistant
+A<|im_end|>
+<|im_start|>user
+Passage: There are 6 scholars F, G, J, L, M, and N, who will speak at a logical meeting, and the speeches are arranged in the following order? (1) Each speaker speaks only once, and only once at the same time By. (2) Three speakers speak before lunch, and the other three speak after lunch. (3) G must speak before lunch. (4) Only one speaker is between M and N. (5) F speaks in the first or third place.
+Question: If J is the first speaker, who must be the second speaker?
+Choices:
+A. F.
+B. L.
+C. G.
+D. M.
+Answer:<|im_end|>
+<|im_start|>assistant
+C<|im_end|>
+<|im_start|>user
+Passage: The researchers divided the subjects into two groups? Group A did their own things for ten minutes but did not engage in things that would lead to lying; Group B was asked to steal test papers and lied during the test. After that, the researchers asked the subjects to put on special electrodes to record the blink frequency of the interrogation. It was found that the blinking frequency of group A increased slightly, but the blinking frequency of group B decreased first, and then increased significantly to 8 times the normal frequency. It can be seen from this? by observing a person's blink frequency, it can be judged whether he is lying.
+Question: The answer to which of the following questions would hardly question the conclusion of this study?
+Choices:
+A. Are there significant differences in the psychological qualities of the subjects in groups A and B?
+B. The subjects in group B were told to tell lies, rather than telling lies themselves. Is the correlation between telling lies and blinking reliable?
+C. Are there any abnormalities in the equipment used in groups A and B?
+D. Will telling lies cause a rapid heartbeat and increased blood pressure?
+Answer:<|im_end|>
+<|im_start|>assistant
+B<|im_end|>
+<|im_start|>user
+Passage: The early universe contained only the lightest elements? hydrogen and helium. Heavier elements like carbon can only be formed in the star's nuclear reaction and diffuse when the star explodes. A nebula recently discovered contained carbon formed billions of years ago, when the universe was no more than 1.5 billion years old.
+Question: If the above statement is true, which of the following must be true?
+Choices:
+A. The earliest stars contained only hydrogen.
+B. When the universe was less than 1.5 billion years old, some stars had already formed.
+C. This nebula also contains hydrogen and helium.
+D. The carbon in this nebula later formed part of some stars.
+Answer:<|im_end|>
+<|im_start|>assistant
+C<|im_end|>
+<|im_start|>user
+Passage: Zhang Qiang? "The" changing face "stunt in Sichuan opera was privately imparted to foreign countries by individual actors, and has now been spread to Japan, Singapore, Germany and other places. The main artistic value of Sichuan opera is to change the face. Leaking the secret to change the face is equivalent to ruining the artistic life of Sichuan opera. Li Ming? "Even if a foreigner learns to change his face, it will not affect the survival and value of the traditional art of Sichuan opera. The intangible cultural heritage can only be inherited and developed by opening the mountain gate to the public and integrating into modern life. ".
+Question: Which of the following, if true, best supports Li Ming ’s point of view?
+Choices:
+A. Foreigners learn Sichuan Opera because of their admiration for face-changing art, which will promote the spread of Sichuan Opera and promote Sichuan Opera to create new skills.
+B. Many foreigners study Peking Opera performance, but this does not detract from Peking Opera's image as a national essence.
+C. The result of the face-changing technology rumors is that it leads to the change of Sichuan Opera art.
+D. In 1987, the Ministry of Culture listed Sichuan Opera's face-changing art as a second-level national secret, which is the only state secret in the Chinese theater industry.
+Answer:<|im_end|>
+<|im_start|>assistant
+B<|im_end|>
+<|im_start|>user
+Passage: With the increase of age, the daily demand for calories is decreasing, while the demand for vitamin B6 is gradually increasing. Unless the elderly take vitamin B6 as a supplement or eat foods that contain more vitamin B6 than they did when they were younger, they are unlikely to get the vitamin B6 they need.
+Question: The answer to which of the following questions is most helpful in evaluating the appeal argument?
+Choices:
+A. Did most people's diet contain vitamin B6 far beyond the amount they needed every day?
+B. Is vitamin B6 in fortified food more easily absorbed by the body than vitamin B6 in the daily diet?
+C. Does the amount of calories needed to decrease each day be greater than the amount of vitamin B6 that needs to be increased each day?
+D. Are the consequences of not getting enough vitamin B6 daily for the elderly more serious than for the young?
+Answer:<|im_end|>
+<|im_start|>assistant
+D<|im_end|>
