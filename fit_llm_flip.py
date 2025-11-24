@@ -240,13 +240,13 @@ def main():
     parser.add_argument(
         "--epochs",
         type=int,
-        default=50,
+        default=500,
         help="Number of epochs for scaling-law fits.",
     )
     parser.add_argument(
         "--patience",
         type=int,
-        default=5,
+        default=10,
         help="Early stopping patience for scaling-law fits.",
     )
     parser.add_argument(
